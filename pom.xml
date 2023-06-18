@@ -153,6 +153,7 @@
   </dependencyManagement>
 
   <build>
+  <finalName>Balaji</finalName>
     <plugins>
       <plugin>
         <groupId>io.spring.javaformat</groupId>
